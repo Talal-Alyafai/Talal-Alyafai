@@ -13,17 +13,34 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:**  
-Python | SQL | JavaScript  
 
-**Frameworks:**  
-Flask | FastAPI | PyTorch | Scikit-Learn  
+#### **Languages**
+Python | SQL | JavaScript | TypeScript | Java | PHP | Bash
 
-**Tools:**  
-Docker | Git | VSCode | Linux  
+#### **Frontend**
+React.js | HTML5 | CSS3 | TailwindCSS | Bootstrap
 
-**Databases:**  
-MySQL | PostgreSQL | MongoDB
+#### **Backend / Frameworks**
+Flask | FastAPI | Spring Boot | Node.js | Express.js | Laravel | Drupal
+
+#### **Machine Learning / AI**
+PyTorch | Scikit-Learn | TensorFlow | Pandas | NumPy | LLMs (Meta Llama, offline AI)
+
+#### **Databases**
+MySQL | PostgreSQL | MongoDB | SQLite | Redis
+
+#### **DevOps & Cloud**
+Docker | Kubernetes | Jenkins | GitHub Actions | Nginx | Linux (Ubuntu/CentOS)
+
+#### **API Development & Integration**
+REST | GraphQL | API Management (Apigee) | OAuth2 | JWT
+
+#### **Tools & Platforms**
+Git | VSCode | Postman | Jupyter | Swagger / OpenAPI | SonarQube | Jira
+
+#### **Security & Automation**
+Burp Suite | Metasploit | SQLMap | Automation Scripts | CI/CD Pipelines
+
 
 ---
 
