@@ -27,15 +27,6 @@ MySQL | PostgreSQL | MongoDB
 
 ---
 
-### 🌟 Featured Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔐 **Offline AI Chatbot** | LLM-powered chatbot for private data analysis | Python, LLMs |
-| 📨 **SMS Spam Detection** | ML model + Flask deployment | Python, ML |
-| 📊 **Attack Path Analyzer** | Security analysis with CVSS scoring | Python, Bash |
-
----
-
 ### 📫 Connect With Me
 - 💼 LinkedIn: *Add your link*  
 - 🧑‍💻 Portfolio: *If you have one*  
