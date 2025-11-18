@@ -45,9 +45,8 @@ Burp Suite | Metasploit | SQLMap | Automation Scripts | CI/CD Pipelines
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: *Add your link*  
-- 🧑‍💻 Portfolio: *If you have one*  
-- ✉️ Email: *Your professional email*
+- 💼 LinkedIn: https://www.linkedin.com/in/talal-madian-alyafai/ 
+- ✉️ Email: Alyafaitalal@gmail.com
 
 ---
 
