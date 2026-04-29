@@ -104,13 +104,23 @@ I'm a **Data Scientist and AI Engineer** with a strong foundation in full-stack 
 
 ## Featured Project
 
-<div align="center">
-
-[![O.Train](https://github-readme-stats.vercel.app/api/pin/?username=Talal-Alyafai&repo=otrain&theme=default&title_color=3B45F5&icon_color=F97316&text_color=0D1130&border_color=e2e8f0&border_radius=12)](https://github.com/Talal-Alyafai/otrain)
-
-</div>
-
-> **O.Train** — A full-stack training management platform built for Omantel. Features role-based dashboards for Trainees, Managers, and HR, with an interactive Python Lab, SQL Lab, AI Instructor avatar, and real code execution engine.
+<table>
+  <tr>
+    <td width="60">
+      <img src="https://img.shields.io/badge/-🎓-3B45F5?style=flat&labelColor=3B45F5" width="48" height="48"/>
+    </td>
+    <td>
+      <strong>O.Train — Omantel Training Platform</strong><br/>
+      <sub>Full-stack training management system with role-based dashboards for Trainees, Managers, and HR. Features an interactive Python Lab with real code execution, SQL Lab with 14 leveled exercises, AI Instructor avatar (Web Speech API), mentor scheduling, and challenge grading workflows.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-3B45F5?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
