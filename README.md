@@ -24,7 +24,7 @@ React.js | HTML5 | CSS3 | TailwindCSS | Bootstrap
 Flask | FastAPI | Spring Boot | Node.js | Express.js | Laravel | Drupal
 
 #### **Machine Learning / AI**
-PyTorch | Scikit-Learn | TensorFlow | Pandas | NumPy | LLMs (Meta Llama, offline AI)
+PyTorch | Scikit-Learn | TensorFlow | Pandas | NumPy | LLMs
 
 #### **Databases**
 MySQL | PostgreSQL | MongoDB | SQLite | Redis
